@@ -1,0 +1,14 @@
+﻿body {
+    background-color: lightblue;
+}
+
+.header-image {
+    max-height: 100px;
+    overflow: hidden;
+    width: 150px;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}

@@ -79,6 +79,7 @@
       <BrowseToURL>~/HtmlPageTest.html</BrowseToURL>
     </Content>
     <Content Include="index.html" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
